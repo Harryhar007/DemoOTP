@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972349782948",
+    "project_id": "otpdemosimmi",
+    "storage_bucket": "otpdemosimmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972349782948:android:453796963ea2596c319f31",
+        "android_client_info": {
+          "package_name": "com.simmi.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972349782948-tgjm1ndpfgr6fc5rqliviqnc1d3chfah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO12TwYLZsMpdPLxV6eG7sZcctgoJCkWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972349782948-tgjm1ndpfgr6fc5rqliviqnc1d3chfah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

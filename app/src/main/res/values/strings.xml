@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_number">Enter Your Number</string>
+    <string name="plus91">+91</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="otpverify">Verify OTP</string>
+    <string name="otpnotrcvd">Didn/\'t receive OTP ?</string>
+    <string name="resendotp">Resend OTP</string>
+    <string name="submit">SUBMIT</string>
+</resources>
